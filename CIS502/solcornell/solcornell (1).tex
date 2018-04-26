@@ -1,0 +1,258 @@
+\documentclass[12pt]{article}
+
+\usepackage{fullpage}
+\usepackage{epic}
+
+
+\newtheorem{statement}{~~~(\hspace*{-4pt}}[section]
+
+\newcommand{\Xomit}[1]{}
+
+\newcommand{\proof}[1]{
+{\noindent {\it Proof.} {#1} \rule{2mm}{2mm} \vskip \belowdisplayskip}
+}
+
+\newcommand{\rf}[1]{
+%%{{\hspace*{-8pt} (\ref{#1}) \hspace*{-8pt}}}
+{{\hspace*{-6pt} (\ref{#1}) \hspace*{-6pt}}}
+}
+
+\def\stm{\hspace*{-5pt}{\bf )}~~}
+
+\newcommand{\prevs}[2]{
+{\vskip 0.1in \noindent {\em Proof of \rf{#1}.} {#2} \rule{2mm}{2mm}
+\vskip \belowdisplayskip}
+}
+
+\newcommand{\prevproof}[2]{
+{\vskip 0.1in \noindent {\em Proof of {#1}.} {#2} \rule{2mm}{2mm}
+\vskip \belowdisplayskip}
+}
+
+\newcommand{\St}[1]{
+\begin{itemize} \item {{#1}} \end{itemize}
+}
+
+
+\newcommand{\Pa}[1]{
+\begin{quote} {\bf ($\dagger$)} {#1} \end{quote}
+}
+
+\newcommand{\Pp}[1]{
+\begin{quote} {\bf $\triangleright$} {#1} \end{quote}
+}
+
+\newcommand{\xhdr}[1]{
+\subsection*{#1}
+}
+
+\newcommand{\kth}[1]{
+{{#1}^{\rm th}}
+}
+
+\newcommand{\cel}[1]{
+{\lceil {#1} \rceil}
+}
+
+\newcommand{\flr}[1]{
+{\lfloor {#1} \rfloor}
+}
+
+\def\sneq{{\tiny \mbox{$\neq$}}}
+\def\subsetneq{\ \lower.5ex\hbox{$\stackrel{\subset}{\sneq}$}\ }
+
+\newcommand{\topmatter}[2]{
+\setlength{\fboxrule}{.5mm}\setlength{\fboxsep}{1.2mm}
+\newlength{\boxlength}\setlength{\boxlength}{\textwidth}
+\addtolength{\boxlength}{-4mm}
+\begin{center}\framebox{\parbox{\boxlength}{\bf
+Notes on {#1} \hfill {#2} \\ %% Title and Date
+Jon Kleinberg and \'Eva Tardos \hfill
+}}\end{center}
+\vspace{5mm}
+}
+
+
+%%General
+\def\ve{{\varepsilon}}
+\def\gap{0.2in}
+
+%%stable
+\def\GS{{G-S}}
+
+%%greedy
+\def\O{{\cal O}}
+
+%%divc
+\def\ms{{\sc Mergesort}}
+\def\qs{{\sc Quicksort}}
+
+%%dp
+\def\seq{{\sigma}}
+\def\O{{\cal O}}
+\def\P{{\cal P}}
+\def\L{{\cal L}}
+\def\opt{{OPT}}
+\def\v{{value}}
+
+%%flow
+\def\O{{\cal O}}
+\def\P{{\cal P}}
+\def\L{{\cal L}}
+\def\opt{{OPT}}
+
+\newcommand{\into}[2]{
+{#1}~{\rm into}~{#2}
+}
+
+\newcommand{\outof}[2]{
+{#1}~{\rm out~of}~{#2}
+}
+
+\newcommand{\infl}[2]{
+{#1}^{\rm in}({#2})
+}
+
+\newcommand{\outfl}[2]{
+{#1}^{\rm out}({#2})
+}
+
+\def\Re{{\bf R}}
+\def\v{{\nu}}
+
+\def\bottle{{\tt bottleneck}}
+\def\augment{{\tt augment}}
+\def\ffinal{{\overline{f}}}
+
+%%np
+\def\IS{{\em Independent Set}}
+\def\SP{{\em Set Packing}}
+\def\VC{{\em Vertex Cover}}
+\def\SC{{\em Set Cover}}
+\def\TDM{{\em 3-Dimensional Matching}}
+\def\SS{{\em Subset Sum}}
+\def\SAT{{\em SAT}}
+\def\Sat{{\em Satisfiability}}
+\def\TSAT{{\em 3-SAT}}
+\def\TSat{{\em 3-Satisfiability}}
+\def\HC{{\em Hamiltonian Cycle}}
+\def\TS{{\em Traveling Salesman}}
+\def\CG{{\em Component Grouping}}
+
+\def\lP{{\leq_P}}
+\newcommand{\n}[1]{{\overline{#1}}}
+
+\def\yes{{\tt yes}}
+\def\no{{\tt no}}
+
+\def\Po{{\cal P}}
+\def\NP{{\cal NP}}
+\def\coNP{{{\rm co-}\NP}}
+
+\def\C{{\cal C}}
+
+%%pspace
+\def\PSP{{\rm PSPACE}}
+
+\def\PL{{\em Planning}}
+\def\QSat{{\em Quantified 3-SAT}}
+\def\QSAT{{\em QSAT}}
+\def\CSat{{\em Competitive 3-SAT}}
+\def\CSAT{{\em CSAT}}
+\def\CFL{{\em Competitive Facility Location}}
+\def\GG{{\em Geography}}
+
+\def\C{{\cal C}}
+\def\O{{\cal O}}
+\def\G{{\cal G}}
+\def\V{{\cal V}}
+\def\E{{\cal E}}
+
+\def\poly{{\rm poly}}
+\def\Path{{\tt Path}}
+
+%%approx
+\def\LP{{\em Linear Programming}}
+\def\IP{{\em Integer Programming}}
+\def\ZIP{{\em 0-1 Integer Programming}}
+
+%%exp
+\def\setminus{{-}}
+
+\def\opti{{OPT_{in}}}
+\def\opto{{OPT_{out}}}
+\def\Mi{{M_{in}}}
+\def\Mo{{M_{out}}}
+
+\def\MVC{{\em Minimum-Cost Vertex Cover}}
+\def\MWIS{{\em Maximum-Weight Independent Set}}
+
+\newcommand{\subgr}[2]{
+{#1}_{#2}
+}
+
+
+
+\begin{document}
+
+Consider the following variation on
+the {\em Interval Scheduling Problem} from lecture.
+You have a processor that can operate 24 hours a day, every day.
+People submit requests to run {\em daily jobs} on the processor.
+Each such job comes with a
+{\em start time} and an {\em end time};
+if the job is accepted to run on the processor, it must
+run continuously, every day, for the period between
+its start and end times.
+(Note that certain jobs can begin before midnight and end
+after midnight; this makes for a type of situation different
+from what we saw in the Interval Scheduling Problem.)
+
+Given a list of $n$ such jobs, your goal is to accept
+{\em as many jobs as possible} (regardless of their length),
+subject to the constraint that the processor can run
+at most one job at any given point in time.
+Provide an algorithm to do this with a running time
+that is polynomial in $n$, the number of jobs.
+You may assume for simplicity that no two jobs have the
+same start or end times.
+
+{\bf Example:} Consider the following four jobs, specified
+by {\em (start-time, end-time)} pairs.
+\begin{quote}
+(6 pm, 6 am), (9 pm, 4 am), (3 am, 2 pm), (1 pm, 7 pm).
+\end{quote}
+The unique solution would be to pick the two jobs
+(9 pm, 4 am) and (1 pm, 7 pm), which can be scheduled
+without overlapping.
+\par 
+Let $I_1, \ldots, I_n$ denote the $n$ intervals.
+We say that an {\em $I_j$-restricted solution} 
+is one that contains the interval $I_j$.
+
+Here is an algorithm, for fixed $j$, to compute
+an $I_j$-restricted solution of maximum size.
+Let $x$ be a point contained in $I_j$.
+First delete $I_j$ and all intervals that overlap it.
+The remaining intervals do not contain the point $x$,
+so we can ``cut'' the time-line at $x$ and produce
+an instance of the Interval Scheduling Problem from class.
+We solve this in $O(n)$ time, assuming that the intervals
+are ordered by ending time.
+
+Now, the algorithm for the full problem is to
+compute an $I_j$-restricted solution of maximum size
+for each $j = 1, \ldots, n$.
+This takes a total time of $O(n^2)$.
+We then pick the largest of these solutions, and
+claim that it is an optimal solution.
+To see this, consider the optimal solution to 
+the full problem, consisting of a set of intervals $S$.
+Since $n > 0$, there is some interval $I_j \in S$;
+but then $S$ is an optimal $I_j$-restricted solution,
+and so our algorithm will produce a solution at 
+least as large as $S$.
+%%%%%%%%%%%%%%%%%
+\end{document}
+
+

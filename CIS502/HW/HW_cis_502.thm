@@ -1,0 +1,262 @@
+\contentsline {ques}{{Question}{1}{}}{1}{ques.1}
+\contentsline {ans}{{Answer}{1}{}}{2}{ans.1}
+\contentsline {ans}{{Answer}{2}{HW1, 4-6, refers to \cite {solcornell}}}{2}{ans.2}
+\contentsline {proof}{{Proof}{1}{}}{2}{proof.1}
+\contentsline {ans}{{Answer}{3}{4-11, refers to \cite {solcornell}}}{3}{ans.3}
+\contentsline {ans}{{Answer}{4}{HW1, 4-12}}{3}{ans.4}
+\contentsline {proof}{{Proof}{2}{}}{3}{proof.2}
+\contentsline {State}{{}{1}{}}{3}{State.1}
+\contentsline {proof}{{Proof}{3}{}}{3}{proof.3}
+\contentsline {ans}{{Answer}{5}{HW1, 4-13}}{3}{ans.5}
+\contentsline {ans}{{Answer}{6}{HW1, 4-15}}{4}{ans.6}
+\contentsline {ques}{{Question}{2}{HW2,4-17}}{5}{ques.2}
+\contentsline {ans}{{Answer}{7}{refers to \cite {solcornell}}}{5}{ans.7}
+\contentsline {ques}{{Question}{3}{HW2,4-20}}{6}{ques.3}
+\contentsline {ans}{{Answer}{8}{}}{7}{ans.8}
+\contentsline {lem}{{Lemma}{1}{4.17'}}{7}{lem.1}
+\contentsline {proof}{{Proof}{4}{}}{7}{proof.4}
+\contentsline {proof}{{Proof}{5}{}}{8}{proof.5}
+\contentsline {proof}{{Proof}{6}{}}{8}{proof.6}
+\contentsline {ques}{{Question}{4}{HW2, 4-21}}{9}{ques.4}
+\contentsline {ans}{{Answer}{9}{}}{9}{ans.9}
+\contentsline {ans}{{Answer}{10}{\textcolor {red}{HW2,4-28}}}{9}{ans.10}
+\contentsline {ques}{{Question}{5}{HW3,4-31, variant of Kruskal's algorithm}}{9}{ques.5}
+\contentsline {ans}{{Answer}{11}{}}{10}{ans.11}
+\contentsline {lem}{{Lemma}{2}{}}{11}{lem.2}
+\contentsline {proof}{{Proof}{7}{}}{11}{proof.7}
+\contentsline {lem}{{Lemma}{3}{}}{11}{lem.3}
+\contentsline {proof}{{Proof}{8}{}}{11}{proof.8}
+\contentsline {proof}{{Proof}{9}{1, for $2^{nd}$ part of statement; refers to \cite {solcornell}}}{11}{proof.9}
+\contentsline {proof}{{Proof}{10}{2, for $2^{nd}$ part of statement; refers to \cite {solcornell}}}{11}{proof.10}
+\contentsline {rem}{{Remark}{1}{}}{12}{rem.1}
+\contentsline {ques}{{Question}{6}{HW3,4-32, variant of minimum-cost arborescence algorithm}}{12}{ques.6}
+\contentsline {ans}{{Answer}{12}{}}{13}{ans.12}
+\contentsline {lem}{{Lemma}{4}{}}{13}{lem.4}
+\contentsline {proof}{{Proof}{11}{}}{13}{proof.11}
+\contentsline {rem}{{Remark}{2}{}}{14}{rem.2}
+\contentsline {ques}{{Question}{7}{HW3,5-1}}{14}{ques.7}
+\contentsline {ques}{{Question}{8}{Fall 2014-I, 30 Points}}{14}{ques.8}
+\contentsline {ans}{{Answer}{13}{}}{15}{ans.13}
+\contentsline {ans}{{Answer}{14}{refers to \cite {solcornell}}}{15}{ans.14}
+\contentsline {code}{{Code}{1}{}}{16}{code.1}
+\contentsline {ques}{{Question}{9}{HW3,5-2}}{17}{ques.9}
+\contentsline {ans}{{Answer}{15}{}}{17}{ans.15}
+\contentsline {code}{{Code}{2}{}}{17}{code.2}
+\contentsline {code}{{Code}{3}{}}{18}{code.3}
+\contentsline {code}{{Code}{4}{}}{18}{code.4}
+\contentsline {ques}{{Question}{10}{HW4, 5-4}}{18}{ques.10}
+\contentsline {code}{{Code}{5}{}}{19}{code.5}
+\contentsline {ans}{{Answer}{16}{}}{19}{ans.16}
+\contentsline {code}{{Code}{6}{}}{20}{code.6}
+\contentsline {ques}{{Question}{11}{HW4,5-7}}{21}{ques.11}
+\contentsline {ans}{{Answer}{17}{refers to \cite {solcornell}}}{21}{ans.17}
+\contentsline {State}{{}{2}{}}{22}{State.2}
+\contentsline {code}{{Code}{7}{}}{22}{code.7}
+\contentsline {ans}{{Answer}{18}{6-1c}}{23}{ans.18}
+\contentsline {ans}{{Answer}{19}{6-4c}}{23}{ans.19}
+\contentsline {ans}{{Answer}{20}{HW4,6-5}}{23}{ans.20}
+\contentsline {ans}{{Answer}{21}{HW4,6-6}}{24}{ans.21}
+\contentsline {ans}{{Answer}{22}{6-7}}{24}{ans.22}
+\contentsline {ans}{{Answer}{23}{Midterm 2015, 6-7, Sudipto Guha}}{25}{ans.23}
+\contentsline {ans}{{Answer}{24}{Midterm 2013, 6-8}}{25}{ans.24}
+\contentsline {ans}{{Answer}{25}{6-10c}}{25}{ans.25}
+\contentsline {ans}{{Answer}{26}{6-13}}{25}{ans.26}
+\contentsline {ans}{{Answer}{27}{6-14}}{25}{ans.27}
+\contentsline {ans}{{Answer}{28}{6-14, refers to \cite {solcornell}}}{26}{ans.28}
+\contentsline {ans}{{Answer}{29}{6-15b, refers to \cite {fulinyun}}}{27}{ans.29}
+\contentsline {ans}{{Answer}{30}{6-18, refers to \cite {solcornell}; not attempted}}{28}{ans.30}
+\contentsline {ans}{{Answer}{31}{6-19, Sudipto Guha}}{29}{ans.31}
+\contentsline {ans}{{Answer}{32}{6-19, refers to \cite {solcornell}}}{29}{ans.32}
+\contentsline {code}{{Code}{8}{}}{30}{code.8}
+\contentsline {ans}{{Answer}{33}{6-20}}{30}{ans.33}
+\contentsline {ans}{{Answer}{34}{6-21}}{31}{ans.34}
+\contentsline {ans}{{Answer}{35}{6-21, refers to \cite {solcornell}}}{31}{ans.35}
+\contentsline {ans}{{Answer}{36}{6-22, Floyd-Warshall algorithm from \cite {wikipedia} and the lecture}}{32}{ans.36}
+\contentsline {ans}{{Answer}{37}{6-23}}{33}{ans.37}
+\contentsline {ans}{{Answer}{38}{HW 6.5, 6-24, Sudipto Guha}}{34}{ans.38}
+\contentsline {ans}{{Answer}{39}{HW 6.5, 6-24, Sudipto Guha, solution 2}}{34}{ans.39}
+\contentsline {ans}{{Answer}{40}{6-28}}{35}{ans.40}
+\contentsline {State}{{}{3}{}}{36}{State.3}
+\contentsline {code}{{Code}{9}{}}{36}{code.9}
+\contentsline {ques}{{Question}{12}{Fall 2014-I, 25 points}}{37}{ques.12}
+\contentsline {ans}{{Answer}{41}{1, SUDIPTO GUHA}}{37}{ans.41}
+\contentsline {ans}{{Answer}{42}{2, SUDIPTO GUHA}}{37}{ans.42}
+\contentsline {ques}{{Question}{13}{2015 midterm 2}}{38}{ques.13}
+\contentsline {ans}{{Answer}{43}{2015 midterm 2}}{38}{ans.43}
+\contentsline {ques}{{Question}{14}{}}{39}{ques.14}
+\contentsline {ans}{{Answer}{44}{}}{39}{ans.44}
+\contentsline {ques}{{Question}{15}{HW5, 7-10}}{40}{ques.15}
+\contentsline {ans}{{Answer}{45}{HW5, 7-10}}{40}{ans.45}
+\contentsline {rem}{{Remark}{3}{}}{41}{rem.3}
+\contentsline {ans}{{Answer}{46}{refers in \cite {mit2004springcs}}}{41}{ans.46}
+\contentsline {ques}{{Question}{16}{HW5, 7-12}}{41}{ques.16}
+\contentsline {ans}{{Answer}{47}{HW5, 7-12, refers to \cite {solcornell}}}{41}{ans.47}
+\contentsline {State}{{}{4}{\textbf {Claim}}}{41}{State.4}
+\contentsline {proof}{{Proof}{12}{}}{41}{proof.12}
+\contentsline {rem}{{Remark}{4}{}}{42}{rem.4}
+\contentsline {ques}{{Question}{17}{HW5, 7-14}}{42}{ques.17}
+\contentsline {ans}{{Answer}{48}{HW5, 7-14}}{42}{ans.48}
+\contentsline {ans}{{Answer}{49}{7-14, Sudipto Guha}}{43}{ans.49}
+\contentsline {ques}{{Question}{18}{HW5, 7-17}}{43}{ques.18}
+\contentsline {ans}{{Answer}{50}{HW 5, 7-17, Sudipto Guha}}{45}{ans.50}
+\contentsline {claim}{{Claim}{1}{}}{45}{claim.1}
+\contentsline {proof}{{Proof}{13}{}}{45}{proof.13}
+\contentsline {ans}{{Answer}{51}{HW 6.5, 7-22}}{45}{ans.51}
+\contentsline {ques}{{Question}{19}{HW6, 7-23}}{45}{ques.19}
+\contentsline {lem}{{Lemma}{5}{}}{46}{lem.5}
+\contentsline {proof}{{Proof}{14}{}}{46}{proof.14}
+\contentsline {ans}{{Answer}{52}{HW6, 7-23, refers to \cite {solcornell}}}{46}{ans.52}
+\contentsline {State}{{}{5}{Claim 1}}{46}{State.5}
+\contentsline {proof}{{Proof}{15}{}}{46}{proof.15}
+\contentsline {State}{{}{6}{Claim 2}}{47}{State.6}
+\contentsline {proof}{{Proof}{16}{}}{47}{proof.16}
+\contentsline {ans}{{Answer}{53}{HW 6, 7-23, Sudipto Guha, Yezheng Li}}{47}{ans.53}
+\contentsline {claim}{{Claim}{2}{}}{48}{claim.2}
+\contentsline {proof}{{Proof}{17}{}}{48}{proof.17}
+\contentsline {claim}{{Claim}{3}{Yezheng Li}}{48}{claim.3}
+\contentsline {proof}{{Proof}{18}{Yezheng Li}}{48}{proof.18}
+\contentsline {claim}{{Claim}{4}{Sudipto Guha}}{48}{claim.4}
+\contentsline {proof}{{Proof}{19}{Yezheng Li}}{48}{proof.19}
+\contentsline {proof}{{Proof}{20}{}}{48}{proof.20}
+\contentsline {proof}{{Proof}{21}{}}{48}{proof.21}
+\contentsline {ans}{{Answer}{54}{7-24}}{49}{ans.54}
+\contentsline {ans}{{Answer}{55}{HW 6.5, 7-27}}{49}{ans.55}
+\contentsline {State}{{}{7}{Claim 1}}{49}{State.7}
+\contentsline {proof}{{Proof}{22}{}}{49}{proof.22}
+\contentsline {ques}{{Question}{20}{HW6, 7-31}}{49}{ques.20}
+\contentsline {ans}{{Answer}{56}{HW 6, 7-31, refers to \cite {solcornell} and section 7.9 of \cite {jon2005algorithm}}}{50}{ans.56}
+\contentsline {State}{{}{8}{Claim}}{51}{State.8}
+\contentsline {proof}{{Proof}{23}{}}{51}{proof.23}
+\contentsline {ques}{{Question}{21}{2015, midterm 2}}{52}{ques.21}
+\contentsline {ans}{{Answer}{57}{2015, midterm 2}}{52}{ans.57}
+\contentsline {ans}{{Answer}{58}{8-1}}{52}{ans.58}
+\contentsline {ans}{{Answer}{59}{8-2}}{52}{ans.59}
+\contentsline {ans}{{Answer}{60}{8-3}}{52}{ans.60}
+\contentsline {ans}{{Answer}{61}{8-4}}{52}{ans.61}
+\contentsline {State}{{}{9}{Claim 1}}{52}{State.9}
+\contentsline {proof}{{Proof}{24}{}}{52}{proof.24}
+\contentsline {State}{{}{10}{Claim 2}}{52}{State.10}
+\contentsline {proof}{{Proof}{25}{}}{53}{proof.25}
+\contentsline {ans}{{Answer}{62}{8-5}}{53}{ans.62}
+\contentsline {claim}{{Claim}{5}{}}{53}{claim.5}
+\contentsline {proof}{{Proof}{26}{}}{53}{proof.26}
+\contentsline {rem}{{Remark}{5}{}}{53}{rem.5}
+\contentsline {claim}{{Claim}{6}{}}{53}{claim.6}
+\contentsline {proof}{{Proof}{27}{}}{54}{proof.27}
+\contentsline {rem}{{Remark}{6}{}}{54}{rem.6}
+\contentsline {claim}{{Claim}{7}{}}{54}{claim.7}
+\contentsline {proof}{{Proof}{28}{}}{54}{proof.28}
+\contentsline {ques}{{Question}{22}{8-6}}{55}{ques.22}
+\contentsline {rem}{{Remark}{7}{Refers to \cite {solcornell}}}{55}{rem.7}
+\contentsline {ans}{{Answer}{63}{8-6, refers to \cite {solcornell}}}{55}{ans.63}
+\contentsline {State}{{}{11}{Claim 1}}{55}{State.11}
+\contentsline {proof}{{Proof}{29}{}}{55}{proof.29}
+\contentsline {State}{{}{12}{Claim 2}}{56}{State.12}
+\contentsline {ans}{{Answer}{64}{8-8, refers to \cite {coursehero8_8}}}{56}{ans.64}
+\contentsline {State}{{}{13}{Claim 1}}{56}{State.13}
+\contentsline {proof}{{Proof}{30}{}}{56}{proof.30}
+\contentsline {State}{{}{14}{Claim 2}}{56}{State.14}
+\contentsline {ans}{{Answer}{65}{8-9}}{57}{ans.65}
+\contentsline {ques}{{Question}{23}{8-10}}{57}{ques.23}
+\contentsline {ans}{{Answer}{66}{8-10, refers to \cite {solcornell}}}{57}{ans.66}
+\contentsline {State}{{}{15}{Claim 1}}{58}{State.15}
+\contentsline {proof}{{Proof}{31}{}}{58}{proof.31}
+\contentsline {State}{{}{16}{Claim 2}}{58}{State.16}
+\contentsline {State}{{}{17}{Claim 3}}{58}{State.17}
+\contentsline {ques}{{Question}{24}{8-11}}{59}{ques.24}
+\contentsline {rem}{{Remark}{8}{}}{59}{rem.8}
+\contentsline {ans}{{Answer}{67}{8-11, refers to \cite {solcornell}}}{60}{ans.67}
+\contentsline {State}{{}{18}{Claim 1}}{60}{State.18}
+\contentsline {proof}{{Proof}{32}{}}{60}{proof.32}
+\contentsline {State}{{}{19}{Claim 2}}{60}{State.19}
+\contentsline {proof}{{Proof}{33}{}}{60}{proof.33}
+\contentsline {ans}{{Answer}{68}{8-13}}{61}{ans.68}
+\contentsline {ques}{{Question}{25}{8-14}}{61}{ques.25}
+\contentsline {rem}{{Remark}{9}{}}{61}{rem.9}
+\contentsline {ans}{{Answer}{69}{8-14, solution 1, refers to \cite {solcornell}}}{61}{ans.69}
+\contentsline {ans}{{Answer}{70}{8-14, solution 2, refers to \cite {solcornell}, not attempted}}{61}{ans.70}
+\contentsline {ans}{{Answer}{71}{8-15}}{62}{ans.71}
+\contentsline {State}{{}{20}{Claim 1}}{62}{State.20}
+\contentsline {proof}{{Proof}{34}{}}{62}{proof.34}
+\contentsline {ques}{{Question}{26}{8-16}}{62}{ques.26}
+\contentsline {ans}{{Answer}{72}{8-16, intersection inference problem}}{63}{ans.72}
+\contentsline {ques}{{Question}{27}{8-17}}{63}{ques.27}
+\contentsline {ans}{{Answer}{73}{8-17, refers to \cite {noahluckeasterly}}}{63}{ans.73}
+\contentsline {State}{{}{21}{Claim 1}}{63}{State.21}
+\contentsline {proof}{{Proof}{35}{}}{63}{proof.35}
+\contentsline {State}{{}{22}{Claim 2}}{63}{State.22}
+\contentsline {proof}{{Proof}{36}{}}{63}{proof.36}
+\contentsline {ans}{{Answer}{74}{8-17, refers to \cite {cmu_cs_8_17}, \textcolor {red}{incorrect}}}{64}{ans.74}
+\contentsline {ques}{{Question}{28}{8-18}}{64}{ques.28}
+\contentsline {ans}{{Answer}{75}{8-18}}{65}{ans.75}
+\contentsline {State}{{}{23}{Claim 1}}{65}{State.23}
+\contentsline {proof}{{Proof}{37}{}}{65}{proof.37}
+\contentsline {State}{{}{24}{Claim 2}}{65}{State.24}
+\contentsline {proof}{{Proof}{38}{}}{65}{proof.38}
+\contentsline {ans}{{Answer}{76}{8-19}}{66}{ans.76}
+\contentsline {ans}{{Answer}{77}{HW 6, 8-20, refers to \cite {yahoo8_20answer}}}{66}{ans.77}
+\contentsline {ans}{{Answer}{78}{HW 6, 8-27}}{66}{ans.78}
+\contentsline {ans}{{Answer}{79}{HW 6.5, 8-28}}{66}{ans.79}
+\contentsline {State}{{}{25}{Claim 1}}{66}{State.25}
+\contentsline {proof}{{Proof}{39}{}}{66}{proof.39}
+\contentsline {State}{{}{26}{Claim 2}}{66}{State.26}
+\contentsline {ques}{{Question}{29}{2015, midterm 2}}{66}{ques.29}
+\contentsline {ans}{{Answer}{80}{2015, midterm 2}}{66}{ans.80}
+\contentsline {ques}{{Question}{30}{Final 2014, 20 pts}}{67}{ques.30}
+\contentsline {ans}{{Answer}{81}{Final 2014, 20 pts}}{67}{ans.81}
+\contentsline {claim}{{Claim}{8}{}}{67}{claim.8}
+\contentsline {proof}{{Proof}{40}{}}{67}{proof.40}
+\contentsline {rem}{{Remark}{10}{Sudipto Guha}}{67}{rem.10}
+\contentsline {ans}{{Answer}{82}{11-1, somehow refers to \cite {solcornell}}}{67}{ans.82}
+\contentsline {rem}{{Remark}{11}{}}{68}{rem.11}
+\contentsline {ans}{{Answer}{83}{11-2}}{68}{ans.83}
+\contentsline {ans}{{Answer}{84}{11-3}}{68}{ans.84}
+\contentsline {claim}{{Claim}{9}{}}{68}{claim.9}
+\contentsline {proof}{{Proof}{41}{}}{68}{proof.41}
+\contentsline {ans}{{Answer}{85}{11-4}}{69}{ans.85}
+\contentsline {ans}{{Answer}{86}{11-5}}{69}{ans.86}
+\contentsline {ans}{{Answer}{87}{11-6}}{69}{ans.87}
+\contentsline {ans}{{Answer}{88}{11-7}}{69}{ans.88}
+\contentsline {ans}{{Answer}{89}{11-8}}{69}{ans.89}
+\contentsline {ans}{{Answer}{90}{11-9}}{69}{ans.90}
+\contentsline {ans}{{Answer}{91}{11-10}}{69}{ans.91}
+\contentsline {ans}{{Answer}{92}{11-11, 1}}{70}{ans.92}
+\contentsline {ans}{{Answer}{93}{11-11,2}}{71}{ans.93}
+\contentsline {ques}{{Question}{31}{Final 2014, 20 Points}}{72}{ques.31}
+\contentsline {ans}{{Answer}{94}{}}{72}{ans.94}
+\contentsline {rem}{{Remark}{12}{}}{73}{rem.12}
+\contentsline {ans}{{Answer}{95}{13-1}}{73}{ans.95}
+\contentsline {ans}{{Answer}{96}{13-3}}{73}{ans.96}
+\contentsline {ans}{{Answer}{97}{13-4}}{73}{ans.97}
+\contentsline {ans}{{Answer}{98}{13-8, HW8, Sudipto Guha}}{73}{ans.98}
+\contentsline {ans}{{Answer}{99}{13-9}}{74}{ans.99}
+\contentsline {ans}{{Answer}{100}{13-10, HW8, \cite {yahoo13_10answer}}}{74}{ans.100}
+\contentsline {ans}{{Answer}{101}{13-11}}{74}{ans.101}
+\contentsline {ans}{{Answer}{102}{13-12}}{74}{ans.102}
+\contentsline {ans}{{Answer}{103}{13-13}}{74}{ans.103}
+\contentsline {ans}{{Answer}{104}{13-14, refers to \cite {solcornell}}}{75}{ans.104}
+\contentsline {claim}{{Claim}{10}{}}{75}{claim.10}
+\contentsline {proof}{{Proof}{42}{}}{75}{proof.42}
+\contentsline {ans}{{Answer}{105}{13-15}}{76}{ans.105}
+\contentsline {lem}{{Lemma}{6}{Chernoff bounds}}{76}{lem.6}
+\contentsline {proof}{{Proof}{43}{}}{76}{proof.43}
+\contentsline {ans}{{Answer}{106}{13-15, HW8, \cite {solcornell}}}{77}{ans.106}
+\contentsline {claim}{{Claim}{11}{}}{78}{claim.11}
+\contentsline {proof}{{Proof}{44}{}}{78}{proof.44}
+\contentsline {claim}{{Claim}{12}{}}{78}{claim.12}
+\contentsline {proof}{{Proof}{45}{}}{78}{proof.45}
+\contentsline {rem}{{Remark}{13}{}}{79}{rem.13}
+\contentsline {ans}{{Answer}{107}{13-15, HW8, simplified version}}{79}{ans.107}
+\contentsline {claim}{{Claim}{13}{}}{81}{claim.13}
+\contentsline {proof}{{Proof}{46}{}}{81}{proof.46}
+\contentsline {claim}{{Claim}{14}{}}{81}{claim.14}
+\contentsline {proof}{{Proof}{47}{}}{81}{proof.47}
+\contentsline {rem}{{Remark}{14}{}}{81}{rem.14}
+\contentsline {ans}{{Answer}{108}{13-16, refers to \cite {solcornell}}}{82}{ans.108}
+\contentsline {ans}{{Answer}{109}{13-17, random walk}}{83}{ans.109}
+\contentsline {ans}{{Answer}{110}{13-18, HW8}}{83}{ans.110}
+\contentsline {claim}{{Claim}{15}{}}{83}{claim.15}
+\contentsline {proof}{{Proof}{48}{}}{83}{proof.48}
+\contentsline {rem}{{Remark}{15}{LP}}{84}{rem.15}
+\contentsline {ques}{{Question}{32}{Final 2014, 20pts, Harsh}}{84}{ques.32}
+\contentsline {ans}{{Answer}{111}{Final 2014, 20pts, Harsh}}{84}{ans.111}
